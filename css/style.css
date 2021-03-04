@@ -7,25 +7,25 @@ body {
   color: rgb(126, 23, 23);
 }
 
-h1{
-font-size: 175%;
-padding: 5px;
+h1 {
+  font-size: 175%;
+  padding: 5px;
 }
 
-.subheader{
+.subheader {
   font-size: 125%;
   padding-bottom: 10px;
 }
 
-img{
-  border:1px solid black;
+img {
+  border: 1px solid black;
 }
 
-p{
+p {
   padding: 20px;
   padding-left: 27.5%;
   padding-right: 27.5%;
 }
-.songlist{
+.songlist {
   padding: 20px;
 }
