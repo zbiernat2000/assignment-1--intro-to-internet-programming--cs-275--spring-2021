@@ -6,6 +6,7 @@ body {
   font-size: 150%;
   color: rgba(66, 17, 5, 0.911);
 }
+
 h1{
 font-size: 175%;
 padding: 5px;
@@ -15,10 +16,14 @@ padding: 5px;
   font-size: 125%;
   padding-bottom: 10px;
 }
+
 img{
   border:1px solid black;
 }
 
+p{
+  padding: 10px;
+}
 .songlist{
-  padding: 15px;
+  padding: 20px;
 }
