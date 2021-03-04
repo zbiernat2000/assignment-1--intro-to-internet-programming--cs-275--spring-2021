@@ -2,7 +2,23 @@
   text-align: center;
 }
 body {
-  background-color: rgba(206, 195, 47, 0.774);
-  font-size: 250%;
-  color: rgba(170, 29, 29, 0.705);
+  background-color: rgb(175, 118, 74);
+  font-size: 150%;
+  color: rgba(66, 17, 5, 0.911);
+}
+h1{
+font-size: 175%;
+padding: 5px;
+}
+
+.subheader{
+  font-size: 125%;
+  padding-bottom: 10px;
+}
+img{
+  border:1px solid black;
+}
+
+.songlist{
+  padding: 15px;
 }
