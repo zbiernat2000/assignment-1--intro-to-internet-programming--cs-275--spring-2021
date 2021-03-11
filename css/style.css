@@ -13,6 +13,7 @@ h1 {
 
 h2 {
   font-size: 135%;
+  padding-bottom: 15px;
 }
 
 img {
@@ -24,6 +25,4 @@ p {
   padding-left: 27.5%;
   padding-right: 27.5%;
 }
-#song-list {
-  padding: 20px;
-}
+
